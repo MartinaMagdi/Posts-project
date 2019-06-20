@@ -59,7 +59,7 @@
               vs-align="center"
               vs-w="9"
             >
-              <span class="info">martinamagdi4666@gmail.com</span>
+              <span class="info">martinamagdi6@gmail.com</span>
             </vs-col>
             <vs-col
               class="align-left"

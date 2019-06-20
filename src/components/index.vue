@@ -4,11 +4,9 @@
       <vs-button
         @click="createPostPopup=true"
         class="create-post"
-        radius
-        color="white"
         type="flat"
-        icon="add_circle"
-      ></vs-button>
+        style="border: 1px solid white !important"
+      >Create new post</vs-button>
       <vs-popup
         style="color:black"
         background-color-popup="white"
@@ -241,5 +239,12 @@ body {
 
 .save-post {
   float: right;
+}
+
+.create-post {
+  color: white !important;
+  font-size: 1rem !important;
+  padding: 0.5rem !important;
+  border-radius: 1rem !important;
 }
 </style>
