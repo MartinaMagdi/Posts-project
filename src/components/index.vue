@@ -244,4 +244,8 @@ body {
 .save-post {
   float: right;
 }
+
+.vs-con-input-label {
+  width: 100% !important;
+}
 </style>
