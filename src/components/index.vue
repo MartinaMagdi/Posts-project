@@ -27,6 +27,7 @@
           radius
           type="flat"
           icon="save"
+          style="float: right"
         ></vs-button>
       </vs-popup>
 
