@@ -210,8 +210,12 @@ body {
 .create-post {
   right: 1rem;
   top: 1rem;
-  position: fixed;
+  position: fixed !important;
   background: unset !important;
+  color: white !important;
+  font-size: 1rem !important;
+  padding: 0.5rem !important;
+  border-radius: 1rem !important;
 }
 
 .vs-popup--close {
@@ -239,12 +243,5 @@ body {
 
 .save-post {
   float: right;
-}
-
-.create-post {
-  color: white !important;
-  font-size: 1rem !important;
-  padding: 0.5rem !important;
-  border-radius: 1rem !important;
 }
 </style>
